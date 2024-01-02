@@ -168,13 +168,6 @@ section {
     height: 80vh;
 }
 
-/* .section__pic-container img {
-    display: block;
-    border-radius: 50%;
-    height: 100%;
-    width: 100%;
-    object-fit: cover;
-} */
 
 .section__pic-container {
     display: flex;
@@ -353,6 +346,7 @@ article {
     width: 10rem;
     justify-content: space-around;
     gap: 0.5rem;
+    align-items: center;
 }
 
 article .icon {
